@@ -1,3 +1,1 @@
-$ ruby hello_world.rb 
-
-puts "Hello World!"
+touch "hello_world.rb
